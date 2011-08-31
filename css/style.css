@@ -21,11 +21,11 @@ html, body {
 
 div {
 	float: left;
-	margin: 25px;
+	margin: 10px;
 }
 
 div img {
-	width: 100px;
+	width: 130px;
 }
 
 #header {
